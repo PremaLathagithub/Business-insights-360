@@ -72,3 +72,5 @@ Business Insights 360 is a comprehensive Power BI dashboard designed to empower 
 * Dax studio( TO REDUCE FILE SIZE)
 * Project Charter file
 
+Live Dashboard:
+https://app.powerbi.com/view?r=eyJrIjoiNjM4NzhlMzItMGUzMC00NzM0LTljMTYtZWQ1MmNhMmY1ZmJlIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
